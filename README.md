@@ -1,9 +1,9 @@
 ## JDBC Operations
 
-DATA QUERY
-DATA UPDATE
-DATA DELETE
-DATA SET
+- DATA QUERY
+- DATA UPDATE
+- DATA DELETE
+- DATA SET
 
 ## Folder Structure
 
